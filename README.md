@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Github, Discord
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am trying my best to learn from CS50 course but feeling like everyone has did it already.
+- ⚡ Fun fact: Cooking
 
 <!---
 Sarvang-Yadava/Sarvang-Yadava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
